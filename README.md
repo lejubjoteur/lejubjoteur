@@ -1,6 +1,6 @@
 ### Hi there ! 👋
 
-I'm Quentin, Scala developer born in 42Paris. I'm looking for a new permanent position in Switzerland.
+I'm Quentin, developer born in 42Paris. Now based in Switzerland as IoT Software engineer and cloud.
 
     📫 How to reach me quentin.gimenez003@gmail.com
 
